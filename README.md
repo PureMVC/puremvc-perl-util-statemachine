@@ -8,7 +8,7 @@ Standard and MultiCore versions are included, with unit tests.
 
 ## API Docs
 * [Standard Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Perl/Utility_Perl_StateMachine/doc-standard/&desc=PureMVC%20Standard%20Docs%20Perl%20Utility:%20State%20Machine)
-* [MultiCore Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Haxe/Utility_Perl_StateMachine/doc-multicore/&desc=PureMVC%20MultiCore%20Docs%20Perl%20Utility:%20State%20Machine)
+* [MultiCore Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Perl/Utility_Perl_StateMachine/doc-standard/&desc=PureMVC%20MultiCore%20Docs%20Perl%20Utility:%20State%20Machine)
 
 ## Status
 Production - [Version 1.0](https://github.com/PureMVC/puremvc-perl-util-statemachine/blob/master/VERSION)
