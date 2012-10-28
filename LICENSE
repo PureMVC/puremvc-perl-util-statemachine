@@ -1,20 +1,3 @@
-## [PureMVC](http://puremvc.github.com/) [Perl](https://github.com/PureMVC/puremvc-perl-standard-framework/wiki) Utility: State Machine
-This utility provides a simple yet effective Finite State Machine implementation, which allows the definition of discrete states, and the valid transitions to other states available from any given state, and the actions which trigger the transitions. A mechanism is provided for defining the entire state machine in XML and having a fully populated StateMachine injected into the PureMVC app. Standard and MultiCore versions are included.
-
-* [Discussion](http://forums.puremvc.org/index.php)
-* [State Machine Overview Presentation](http://puremvc.tv/#P003/)
-
-## API Docs
-* [Standard Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Perl/Utility_Perl_StateMachine/doc-standard/&desc=PureMVC%20Standard%20Docs%20Perl%20Utility:%20State%20Machine)
-* [MultiCore Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/Haxe/Utility_Perl_StateMachine/doc-multicore/&desc=PureMVC%20MultiCore%20Docs%20Perl%20Utility:%20State%20Machine)
-
-## Status
-Production - [Version 1.0](https://github.com/PureMVC/puremvc-perl-util-statemachine/blob/master/VERSION)
-
-## Platforms / Technologies
-* [Perl](http://en.wikipedia.org/wiki/Perl)
-
-## License
 * PureMVC Perl Utility - StateMachine (Ported) - Copyright © 2011 Frederic Sullet  
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.
